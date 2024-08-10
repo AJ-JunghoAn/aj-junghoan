@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jungho An, you can call me AJ</h1>
 <h3 align="center">A Robotics Software Engineer from Korea 🇰🇷</h3>
 
-- 🔭 I’m currently working on **EXO-Suits**
+- 🔭 I’m currently working on **EXO-Suits🦿**
 
 - 🌱 I’m currently learning **ROS2**
 
