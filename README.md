@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **EXO-Suits**
 
-- 🌱 I’m currently learning **ROS2**
+- 🌱 I’m currently learning **ROS2 and Data Mining**
 
 - 👨‍💻 All of my projects are available at [portfolio Link Here](portfolio Link Here)
 
