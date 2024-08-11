@@ -3,17 +3,16 @@
 
 - 🔭 I’m currently working on **EXO-Suits🦿**
 
-- 🌱 I’m currently learning **ROS2 and Motor Control**
-
 - 🏫 I’m currently persuing **M.S. in Big Data from Sungkyunkwan University**
-
-- 👨‍💻 All of my projects are available at [portfolio Link Here](portfolio Link Here)
 
 - 💬 Ask me about **Python, C**
 
-- 📫 How to reach me **aj.junghoan@gmail.com**
+- 👨‍💻 All of my projects are available at [portfolio Link Here](portfolio Link Here)
 
 - 📄 Know about my experiences [Resume Link Here](Resume Link Here)
+
+
+- 📫 How to reach me **aj.junghoan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
