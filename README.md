@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **EXO-Suits🦿**
 
-- 🌱 I’m currently learning **ROS2**
+- 🌱 I’m currently learning **ROS2 and Motor Control**
+
+- 🏫 I’m currently persuing **M.S. in Big Data from Sungkyunkwan University**
 
 - 👨‍💻 All of my projects are available at [portfolio Link Here](portfolio Link Here)
 
