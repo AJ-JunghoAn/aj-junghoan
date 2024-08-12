@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, C**
 
-- 👨‍💻 All of my projects are available at [portfolio Link Here](portfolio Link Here)
+- 👨‍💻 All of my projects are available at [https://aj-junghoan.github.io/](https://aj-junghoan.github.io/)
 
 - 📄 Know about my experiences [Resume Link Here](Resume Link Here)
 
