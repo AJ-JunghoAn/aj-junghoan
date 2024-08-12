@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **EXO-Suits🦿**
 
-- 🏫 I’m currently persuing **M.S. in Big Data from Sungkyunkwan University**
+- 🏫 I’m currently persuing **M.S. in Big Data at Sungkyunkwan University**
 
 - 💬 Ask me about **Python, C**
 
