@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **EXO-Suits🦿**
 
-- 🏫 I’m currently persuing **M.S. in Big Data at Sungkyunkwan University**
-
 - 💬 Ask me about **Python, C**
 
 - 👨‍💻 All of my projects are available at [https://aj-junghoan.github.io/](https://aj-junghoan.github.io/)
