@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aj-junghoan.github.io/](https://aj-junghoan.github.io/)
 
-- 📄 Know about my experiences [Resume Link Here](https://drive.google.com/file/d/1CNdygeOh6gh4jOfTtsRF5FxEBsYR1-km/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link Here](https://drive.google.com/file/d/1Ax_49WrZW9rh-LFER4Zd8balnWU-zYMM/view?usp=sharing)
 
 
 - 📫 How to reach me **aj.junghoan@gmail.com**
