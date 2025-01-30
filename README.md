@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jungho An</h1>
 <h3 align="center">A Robotics Software Engineer</h3>
 
-- 🔭 I’m currently working on **EXO-Suits🦿**
+- 🔭 I’m currently working on **EXO-Suits🦿 and 6-DOF Robot Arm** 
 
 - 💬 Ask me about **Python, C**
 
