@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aj-junghoan.github.io/](https://aj-junghoan.github.io/)
 
-- 📄 Know about my experiences [Resume Link Here](https://drive.google.com/file/d/1Ld_t-WQaQ8VrxX3LdTFAcMJX5IboBTyl/view?usp=sharing)
+- 📄 Know about my experiences [Notion Link Here]([https://drive.google.com/file/d/1Ld_t-WQaQ8VrxX3LdTFAcMJX5IboBTyl/view?usp=sharing](https://complete-finch-f84.notion.site/Turning-Innovation-Into-Motion-191ebd01310580258fc1ed6e2bf34234))
 
 
 - 📫 How to reach me **aj.junghoan@gmail.com**
